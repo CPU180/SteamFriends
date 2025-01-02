@@ -22,7 +22,7 @@
 | ![](https://avatars.steamstatic.com/be928c28691947502310e9eb44cad559af55331f.jpg) | Dogpor         | [76561199191552335](https://steamcommunity.com/profiles/76561199191552335/) | ✅           | 2021-10-04 14:12:59 |          |
 | ![](https://avatars.steamstatic.com/b01ca402b08605d1216e7c4ac5a9c9e64a648c2e.jpg) | Tempest        | [76561198941935536](https://steamcommunity.com/profiles/76561198941935536/) | ✅           | 2019-08-03 02:17:25 |          |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 2727911854     | [76561199124704274](https://steamcommunity.com/profiles/76561199124704274/) | ✅           | 2021-09-24 12:43:39 |          |
-| ![](https://avatars.steamstatic.com/35eb986ddec52be02c02300665ccebfaa534171a.jpg) | 握酒称臣不尽曲。       | [76561198448055508](https://steamcommunity.com/profiles/76561198448055508/) | ✅           | 2021-08-17 13:31:17 |          |
+| ![](https://avatars.steamstatic.com/35eb986ddec52be02c02300665ccebfaa534171a.jpg) | 握酒称臣不尽曲        | [76561198448055508](https://steamcommunity.com/profiles/76561198448055508/) | ✅           | 2021-08-17 13:31:17 |          |
 | ![](https://avatars.steamstatic.com/1dc654c6650df02b56c32369eb4a34cf9c919845.jpg) | 我TM吃席          | [76561199117872324](https://steamcommunity.com/profiles/76561199117872324/) | ✅           | 2023-06-20 10:07:09 |          |
 | ![](https://avatars.steamstatic.com/1e0dfe15ef6fc031ac8ad3789eb21dcac8b3492b.jpg) | 布洛芬颗粒          | [76561199129193059](https://steamcommunity.com/profiles/76561199129193059/) | ✅           | 2023-04-30 15:37:07 |          |
 | ![](https://avatars.steamstatic.com/ba42da42df8de910a5c948c68757c1b8465fbd9e.jpg) | 77             | [76561199091651204](https://steamcommunity.com/profiles/76561199091651204/) | ✅           | 2024-03-06 14:22:24 |          |
@@ -54,3 +54,4 @@
 | ![](https://avatars.steamstatic.com/a915578b87ab5f0a61ffe1faabeedb31df8839fc.jpg) | ATeam_正在使用凤凰治疗 | [76561199519089096](https://steamcommunity.com/profiles/76561199519089096/) | ✅           | 2024-08-31 14:07:17 |          |
 | ![](https://avatars.steamstatic.com/b1ea89537123f98e30bb62d18175f836a4ecf054.jpg) | Stelo_016      | [76561198453282816](https://steamcommunity.com/profiles/76561198453282816/) | ✅           | 2021-03-12 12:38:00 |          |
 | ![](https://avatars.steamstatic.com/a7076bf1aea6852215b08b873315ec513bfd53ba.jpg) | 湫刀鱼            | [76561198411524914](https://steamcommunity.com/profiles/76561198411524914/) | ✅           | 2020-03-31 03:25:40 |          |
+| ![](https://avatars.steamstatic.com/e1ba2cb4b2abc05dcd0438c0eabbcc5876e4ef89.jpg) | Bruce Wayne    | [76561198405398873](https://steamcommunity.com/profiles/76561198405398873/) | ✅           | 2025-01-01 10:49:38 |          |

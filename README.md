@@ -58,3 +58,4 @@
 | ![](https://avatars.steamstatic.com/271a5ecef1cae225e7fb76bb988d6a6ff09ac230.jpg) | Mary Richardson       | [76561199374219596](https://steamcommunity.com/profiles/76561199374219596/) | ✅           | 2025-01-02 17:12:31 |          |
 | ![](https://avatars.steamstatic.com/163dcb7477cd60aa2e2e60da5b20a752a215a2ae.jpg) | 内个、狗子：问了吗？            | [76561199476362685](https://steamcommunity.com/profiles/76561199476362685/) | ✅           | 2025-02-22 16:00:09 |          |
 | ![](https://avatars.steamstatic.com/0b78190f63e1cc9ce4998531a9300b7f596890e0.jpg) | ATeam_over the moon 9 | [76561198809289363](https://steamcommunity.com/profiles/76561198809289363/) | ✅           | 2025-07-07 14:14:48 |          |
+| ![](https://avatars.steamstatic.com/edea68afd57a75255af47916521ba7b4bd0174c1.jpg) | 大王w                   | [76561199029448205](https://steamcommunity.com/profiles/76561199029448205/) | ✅           | 2025-08-16 12:02:09 |          |

@@ -59,3 +59,4 @@
 | ![](https://avatars.steamstatic.com/163dcb7477cd60aa2e2e60da5b20a752a215a2ae.jpg) | 亨德尔重生之无主之地4给我当狗子      | [76561199476362685](https://steamcommunity.com/profiles/76561199476362685/) | ✅           | 2025-02-22 16:00:09 |          |
 | ![](https://avatars.steamstatic.com/0b78190f63e1cc9ce4998531a9300b7f596890e0.jpg) | ATeam_over the moon 9 | [76561198809289363](https://steamcommunity.com/profiles/76561198809289363/) | ✅           | 2025-07-07 14:14:48 |          |
 | ![](https://avatars.steamstatic.com/edea68afd57a75255af47916521ba7b4bd0174c1.jpg) | 大王w                   | [76561199029448205](https://steamcommunity.com/profiles/76561199029448205/) | ✅           | 2025-08-16 12:02:09 |          |
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 没关JUSTOPEN            | [76561199880068742](https://steamcommunity.com/profiles/76561199880068742/) | ✅           | 2025-11-02 16:12:31 |          |
